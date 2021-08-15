@@ -10,6 +10,9 @@ bookCollapseSection: true
 
 https://www.alfredapp.com/
 
+- [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate) ![Github stars](https://img.shields.io/github/stars/wensonsmith/YoudaoTranslate.svg) ![Language](https://img.shields.io/github/languages/top/wensonsmith/YoudaoTranslate.svg) ![Last Tag](https://img.shields.io/github/v/tag/wensonsmith/YoudaoTranslate.svg?sort=semver) ![Last commit](https://img.shields.io/github/last-commit/wensonsmith/YoudaoTranslate.svg)
+  - 有道翻译
+
 ---
 
 ## `Keyboard Maestro`
